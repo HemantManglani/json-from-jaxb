@@ -1,0 +1,8 @@
+com\sun\jersey\samples\jsonfromjaxb\resources\FlightList.class
+com\sun\jersey\samples\jsonfromjaxb\resources\AircraftTypeList.class
+com\sun\jersey\samples\jsonfromjaxb\jaxb\AircraftType.class
+com\sun\jersey\samples\jsonfromjaxb\jaxb\Flights.class
+com\sun\jersey\samples\jsonfromjaxb\config\JAXBContextResolver.class
+com\sun\jersey\samples\jsonfromjaxb\jaxb\ObjectFactory.class
+com\sun\jersey\samples\jsonfromjaxb\Main.class
+com\sun\jersey\samples\jsonfromjaxb\jaxb\FlightType.class
